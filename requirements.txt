@@ -1,0 +1,4 @@
+# Current demo works with django versions prior 1.10
+django<1.10
+django-phrase
+coverage==4.5.4
